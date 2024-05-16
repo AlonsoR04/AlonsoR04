@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Alonso 👋</h1>
 </div>
+<img src="https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043271.jpg">
 
 ## About me
 
