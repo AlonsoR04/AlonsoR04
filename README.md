@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Alonso 👋</h1>
 </div>
-<img src="https://imgur.com/a/w96N7aC">
+<img src="https://imgur.com/s1CQV5u">
 
 ## About me
 
