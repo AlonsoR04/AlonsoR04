@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Alonso 👋</h1>
 </div>
 <img src="https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043271.jpg">
-
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ## About me
 
 <!--
