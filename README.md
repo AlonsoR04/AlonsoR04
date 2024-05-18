@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/ObSMt1K.jpeg">
 
-## About me
+## About me 📝
 
 <!--
 <div align="center">
