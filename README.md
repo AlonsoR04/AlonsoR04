@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">Hello, I'm Alonso 👋</h1>
+<h1 align="center">Hola, soy Alonso👋</h1>
 </div>
 <img src="https://i.imgur.com/ObSMt1K.jpeg">
 
-## About me 📝
+## Sobre mi 📝
 
 -
 -
