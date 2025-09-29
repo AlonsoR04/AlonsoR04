@@ -5,9 +5,7 @@
 
 ## Sobre mi 📝
 
--
--
--
+Un estudiante de cuarto año de Ingeniería Informática con sólidos conocimientos en desarrollo web, estructuras de datos, programación orientada a objetos, sistemas distribuidos y machine learning, entre otros. Una persona competitiva y ambiciosa con un alto nivel de responsabilidad y compromiso. Amante de los deportes y videojuegos en equipo. Apasionado por construir soluciones tecnológicas que resuelvan problemas reales.
 
 <!--
 <div align="center">
