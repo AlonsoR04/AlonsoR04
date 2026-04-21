@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/DwnexHr.jpeg" alt="Profile Banner" width="100%" style="border-radius: 20px;"/>
+  <img src="https://i.imgur.com/hgrsNkg.png" alt="Profile Banner" width="100%" style="border-radius: 20px;"/>
 
   <h1 style="font-size: 3rem;">👋 Hi, I'm <strong>Alonso Rios Guerra</strong></h1>
   <h2 style="font-size: 1.8rem;">💻 Computer Engineer | 🤖 AI & Cybersecurity Enthusiast</h2>
