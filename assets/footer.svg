@@ -4,9 +4,20 @@
       <stop offset="0" stop-color="#0b1220"/>
       <stop offset="0.55" stop-color="#0e3a66"/>
       <stop offset="1" stop-color="#0e75b6"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="12s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <rect width="1000" height="110" fill="url(#bg)"/>
-  <path d="M0 40 C200 10 400 70 600 40 S900 15 1000 40 L1000 110 L0 110 Z" fill="#ffffff" opacity="0.06"/>
-  <path d="M0 65 C250 40 450 90 700 65 S920 50 1000 65 L1000 110 L0 110 Z" fill="#ffffff" opacity="0.07"/>
+  <circle cx="200" cy="30" r="2.5" fill="#bfe3ff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="22" r="2" fill="#bfe3ff"><animate attributeName="opacity" values="0.9;0.1;0.9" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="40" r="3" fill="#8ec5ff"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5s" repeatCount="indefinite"/></circle>
+  <path d="M0 45 Q125.0 31 250.0 45 T500 45 T750 45 T1000 45 T1250 45 T1500 45 L1500 110 L0 110 Z" fill="#ffffff" opacity="0.06">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 65 Q125.0 53 250.0 65 T500 65 T750 65 T1000 65 T1250 65 T1500 65 L1500 110 L0 110 Z" fill="#ffffff" opacity="0.07">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 85 Q125.0 75 250.0 85 T500 85 T750 85 T1000 85 T1250 85 T1500 85 L1500 110 L0 110 Z" fill="#ffffff" opacity="0.09">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="5s" repeatCount="indefinite"/>
+  </path>
 </svg>

@@ -4,14 +4,39 @@
       <stop offset="0" stop-color="#0b1220"/>
       <stop offset="0.55" stop-color="#0e3a66"/>
       <stop offset="1" stop-color="#0e75b6"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="12s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <rect width="1000" height="260" fill="url(#bg)"/>
-  <circle cx="90" cy="60" r="120" fill="#58a6ff" opacity="0.07"/>
-  <circle cx="930" cy="40" r="90" fill="#ffffff" opacity="0.05"/>
-  <path d="M0 215 C200 175 400 255 600 215 S900 185 1000 215 L1000 260 L0 260 Z" fill="#ffffff" opacity="0.06"/>
-  <path d="M0 232 C250 205 450 262 700 232 S920 215 1000 232 L1000 260 L0 260 Z" fill="#ffffff" opacity="0.07"/>
-  <text x="500" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Alonso Ríos Guerra</text>
-  <rect x="440" y="143" width="120" height="3" rx="1.5" fill="#58a6ff"/>
-  <text x="500" y="184" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#cfe8ff">Applied AI · Machine Learning · LLMs &amp; Agents</text>
+  <circle cx="90" cy="60" r="120" fill="#58a6ff" opacity="0.07">
+    <animateTransform attributeName="transform" type="translate" values="0 0;30 12;0 0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="40" r="90" fill="#ffffff" opacity="0.05">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-26 18;0 0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="78" r="3" fill="#bfe3ff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="760" cy="57.2" r="2.5" fill="#bfe3ff"><animate attributeName="opacity" values="0.9;0.1;0.9" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="620" cy="31.2" r="2" fill="#8ec5ff"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="5s" repeatCount="indefinite"/></circle>
+  <path d="M0 205 Q125.0 183 250.0 205 T500 205 T750 205 T1000 205 T1250 205 T1500 205 L1500 260 L0 260 Z" fill="#ffffff" opacity="0.05">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 222 Q125.0 204 250.0 222 T500 222 T750 222 T1000 222 T1250 222 T1500 222 L1500 260 L0 260 Z" fill="#ffffff" opacity="0.07">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 240 Q125.0 226 250.0 240 T500 240 T750 240 T1000 240 T1250 240 T1500 240 L1500 260 L0 260 Z" fill="#ffffff" opacity="0.08">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="125" font-size="58" font-weight="700" fill="#ffffff" opacity="0">Alonso Ríos Guerra
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="1.2s" fill="freeze"/>
+    </text>
+    <rect x="500" y="143" width="0" height="3" rx="1.5" fill="#58a6ff">
+      <animate attributeName="width" from="0" to="120" dur="1s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="x" from="500" to="440" dur="1s" begin="0.8s" fill="freeze"/>
+    </rect>
+    <text x="500" y="184" font-size="22" letter-spacing="1" fill="#cfe8ff" opacity="0">Applied AI · Machine Learning · LLMs &amp; Agents
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.2s" fill="freeze"/>
+    </text>
+  </g>
 </svg>
