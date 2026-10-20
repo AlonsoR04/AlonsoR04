@@ -2,17 +2,23 @@
 
 <img src="assets/header.svg" alt="Alonso Ríos Guerra" width="100%"/>
 
-<img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-0e75b6?style=for-the-badge" alt="English"/>
-<a href="README.es.md"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Leer_en_Espa%C3%B1ol-1f2937?style=for-the-badge" alt="Leer en Español"/></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Passionate+about+applied+AI+%26+machine+learning;Building+LLM-powered+apps+and+agents;From+data+to+models+to+real+products;Where+AI+meets+business" alt="Passionate about applied AI and machine learning"/>
-
-<a href="https://www.linkedin.com/in/alonso-r%C3%ADos-guerra-a48bbb34a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ariosguerra.business@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://alonsor04.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<img src="https://hits.sh/github.com/AlonsoR04.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile views"/>
-
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-0e75b6?style=for-the-badge" alt="English" height="38"/>
+<a href="README.es.md"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Leer_en_Espa%C3%B1ol-1f2937?style=for-the-badge" alt="Leer en Español" height="38"/></a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Passionate+about+applied+AI+%26+machine+learning;Building+LLM-powered+apps+and+agents;From+data+to+models+to+real+products;Where+AI+meets+business" alt="Passionate about applied AI and machine learning"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alonso-r%C3%ADos-guerra-a48bbb34a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"/></a>
+<a href="mailto:ariosguerra.business@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="38"/></a>
+<a href="https://alonsor04.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="38"/></a>
+<img src="https://hits.sh/github.com/AlonsoR04.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile views" height="38"/>
+</p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
