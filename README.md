@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Alonso Ríos Guerra" width="100%"/>
+<img src="assets/header_en.svg" alt="Alonso Ríos Guerra" width="100%"/>
 
 </div>
 
